@@ -17,8 +17,8 @@
 
 ## Fundamentals
 
-* [🤹 Game Characters](fundamentals/game-characters.md)
 * [🏆 Leaderboard & Quests](fundamentals/leaderboard-and-quests.md)
+* [🤹 Game Characters](fundamentals/game-characters.md)
 
 ## Use Cases
 

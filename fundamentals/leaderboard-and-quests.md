@@ -1,8 +1,8 @@
 # 🏆 Leaderboard & Quests
 
-### Leaderboard
+### <mark style="color:purple;">Leaderboard !</mark>
 
-The leaderboard is a tool to incentivize players for in-game engagement. Top-ranked players may receive limited, unique resources that can be used to craft exclusive equipment or ships.
+The leaderboard is a tool to incentivize players for in-game engagement. Top-ranked players may receive <mark style="color:yellow;">**limited, unique resources**</mark> that can be used to craft exclusive equipment or ships.
 
 * Leaderboard can be viewed in the game - the first icon on the left hand side of the map.&#x20;
 
@@ -10,7 +10,7 @@ The leaderboard is a tool to incentivize players for in-game engagement. Top-ran
 
 * Leaderboard can also be viewed in the faucet claim website: [https://game.infiniteseas.io/faucet](https://game.infiniteseas.io/faucet)&#x20;
 
-### Newbie Initial Quests
+### <mark style="color:red;">Newbie Initial Quests !!!</mark>
 
 | Task                                                                | Points    |
 | ------------------------------------------------------------------- | --------- |
@@ -25,7 +25,7 @@ The leaderboard is a tool to incentivize players for in-game engagement. Top-ran
 | Sailing: click "sail", then right-click your destination on the map | 10 points |
 | Beat 1 PvE ship roster                                              | 15 points |
 
-### Daily Quests
+### <mark style="color:purple;">Daily Quests :D</mark>
 
 | Task                                   | Quest Reward |
 | -------------------------------------- | ------------ |
