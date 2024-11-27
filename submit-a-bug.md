@@ -4,7 +4,7 @@ description: Together we make it BETTER :3
 
 # 🐞 Submit a bug
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>submit bugs via discord</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>submit bugs via discord</p></figcaption></figure>
 
 Since our game is still in the early stages, there may be some bugs that need to be resolved.
 

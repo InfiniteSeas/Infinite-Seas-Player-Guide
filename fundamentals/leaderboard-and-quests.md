@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🏆 Leaderboard & Quests
 
 ### <mark style="color:purple;">Leaderboard !</mark>
