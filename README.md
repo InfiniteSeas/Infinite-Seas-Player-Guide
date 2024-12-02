@@ -28,27 +28,26 @@ layout:
 
 ## Overview
 
-#### <mark style="color:orange;">**Welcome aboard to PT 1, Captain!**</mark>
+#### <mark style="color:orange;">**Welcome aboard to PT 1, Captain! ⛵️**</mark>
 
-_From our first playtest on Move (PT Batch 0) 💙:_
+_**From our first playtest on Move (PT Batch 0) 💙:**_
 
 _`Infinite Seas PT Batch 0 is the first playtest, where our team aims to gather feedback from 120 players within our community. This playtest is exclusively available to`_ [_`Game Character NFT holders.`_](fundamentals/game-characters.md)
 
-#### <mark style="color:red;">What's New for Playtest 1:</mark>
+#### <mark style="color:purple;">What's New for Playtest 1: 👶</mark>
 
 Now, we're opening the seas to ✨**\~1,000 testers**✨! This time, it's on EVM. Yes, you read that right—we rewrote over 10,000 lines of smart contract code in Solidity in just two months! **Be proud—you’re part of a pioneering group shaping the future of Web3 gaming. 🥷**
 
 We’re still in the early stages, and great games take many rounds of playtests to perfect. Thanks for joining us in this revolution of Web3 gaming. This game is different.&#x20;
 
-To keep you engaged through this playtest journey, we’ve designed a leaderboard for internal game point accumulation. Active players and testers will uncover hidden treasures, earning rare items and resources that will set you apart from the rest.&#x20;
+To keep you engaged through this playtest journey, we’ve designed a **leaderboard** for internal game point accumulation. **Active players and testers will uncover hidden treasures, earning rare items and resources that will set you apart from the rest.**&#x20;
 
-_**(Although as @wighawag put it, "the best kind of retention is intrinsic.") <- and that’s exactly what we’re aiming to figure out through these playtests.**_
+_(As @wighawag put it, "the best kind of retention is intrinsic.") <- and that’s exactly what we’re aiming to figure out through these playtests._
 
-#### <mark style="color:purple;">Keep In Mind, $Energy is the Capital  ⚡️ = 💰</mark>
+#### <mark style="color:red;">Keep In Mind, $Energy is the Capital  ⚡️ = 💰</mark>
 
-### :exclamation:Keep in mind that in order to thrive, manage your $Energy very carefully:exclamation:&#x20;
-
-### :exclamation:Fail at managing $Energy may cause you lose the game at very beginning:exclamation:
+* **Keep in mind that in order to thrive, manage your $Energy very carefully**:exclamation: :exclamation:&#x20;
+* **Fail at managing $Energy may cause you lose the game at very beginning**:exclamation::exclamation:&#x20;
 
 <figure><img src=".gitbook/assets/02-大地图航海界面.png" alt=""><figcaption><p>Game map UI</p></figcaption></figure>
 
