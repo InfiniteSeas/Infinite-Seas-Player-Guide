@@ -14,6 +14,7 @@
 * [⛵ 5. Ship Crafting](product-guides/5.-ship-crafting.md)
 * [🔢 6. Ship Roster](product-guides/6.-ship-roster.md)
 * [🎯 Milestone: 12,000 Ships Goal](product-guides/milestone-12-000-ships-goal.md)
+* [🎖️ Odyssey Badge Quest](product-guides/odyssey-badge-quest.md)
 * [⚓ 7. Sailing](product-guides/7.-sailing.md)
 * [🎯 8. Ship Battle](product-guides/8.-ship-battle.md)
 * [💱 9. Resource Transfer](product-guides/9.-resource-transfer.md)
