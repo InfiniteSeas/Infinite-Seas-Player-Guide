@@ -1,7 +1,8 @@
 ---
 description: >-
   Badge claim runs Dec 6th-8th (PST). You can still complete quests during this
-  time. Our game quests continue after the 8th!
+  time. Our game quests continue after the 8th! Manage your $Energy wisely—you
+  should be able to complete the quest on Day 1
 ---
 
 # 🎖️ Odyssey Badge Quest

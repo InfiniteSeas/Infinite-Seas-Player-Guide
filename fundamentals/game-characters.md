@@ -1,8 +1,12 @@
+---
+description: Shoutout to our Playtest 0 testers! We remember every single one of you 🫰
+---
+
 # 🤹 Game Characters
 
-<figure><img src="../.gitbook/assets/Screenshot_2024-08-24_at_18.50.50-removebg-preview.png" alt=""><figcaption><p>Wood, Ore, Seed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_2024-08-24_at_18.50.50-removebg-preview.png" alt=""><figcaption><p>races: Wood, Ore, Seed</p></figcaption></figure>
 
-## **Dynamic NFT Overview**
+## **Dynamic NFT Overview (TBD)**
 
 ### **Dynamic NFT Characters:**
 

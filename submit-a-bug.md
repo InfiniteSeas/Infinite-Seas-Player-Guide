@@ -12,5 +12,5 @@ If you find a bug, please do us a favor and post it in our Discord channel, [#Id
 
 Once you submit a bug, we will work hard to resolve it ASAP, but please be patient >\_<
 
-<figure><img src=".gitbook/assets/pixel-art-heart-icon-retro-game-symbol-vector-35832050-removebg-preview.png" alt="" width="241"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/pixel-art-heart-icon-retro-game-symbol-vector-35832050-removebg-preview.png" alt="" width="241"><figcaption><p>Love u guys >_&#x3C;</p></figcaption></figure>
 

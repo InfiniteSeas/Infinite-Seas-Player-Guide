@@ -1,4 +1,7 @@
 ---
+description: >-
+  There’s much more content coming soon, so stay excited, Captain. Let’s make
+  some waves! 🌊
 cover: .gitbook/assets/01-主界面-2.png
 coverY: 0
 layout:
@@ -25,11 +28,23 @@ layout:
 
 ## Overview
 
-_Infinite Seas PT Batch 0_ is the first playtest, where our team aims to gather feedback from 120 players within our community. This playtest is exclusively available to [Game Character NFT holders.](fundamentals/game-characters.md)&#x20;
+#### <mark style="color:orange;">**Welcome aboard to PT 1, Captain!**</mark>
 
-To keep our players engaged, we've carefully designed a leaderboard for internal game points accumulation. Active players and testers will be rewarded with hidden treasures, ensuring that you can obtain rare items and resources that set you apart from the rest of the players.
+_From our first playtest on Move (PT Batch 0) 💙:_
 
-We gonna open our Next round very soon. Aiming for 2-3 weeks after the first Batch starts.&#x20;
+_`Infinite Seas PT Batch 0 is the first playtest, where our team aims to gather feedback from 120 players within our community. This playtest is exclusively available to`_ [_`Game Character NFT holders.`_](fundamentals/game-characters.md)
+
+#### <mark style="color:red;">What's New for Playtest 1:</mark>
+
+Now, we're opening the seas to ✨**\~1,000 testers**✨! This time, it's on EVM. Yes, you read that right—we rewrote over 10,000 lines of smart contract code in Solidity in just two months! **Be proud—you’re part of a pioneering group shaping the future of Web3 gaming. 🥷**
+
+We’re still in the early stages, and great games take many rounds of playtests to perfect. Thanks for joining us in this revolution of Web3 gaming. This game is different.&#x20;
+
+To keep you engaged through this playtest journey, we’ve designed a leaderboard for internal game point accumulation. Active players and testers will uncover hidden treasures, earning rare items and resources that will set you apart from the rest.&#x20;
+
+_**(Although as @wighawag put it, "the best kind of retention is intrinsic.") <- and that’s exactly what we’re aiming to figure out through these playtests.**_
+
+#### <mark style="color:purple;">Keep In Mind, $Energy is the Capital  ⚡️ = 💰</mark>
 
 ### :exclamation:Keep in mind that in order to thrive, manage your $Energy very carefully:exclamation:&#x20;
 
