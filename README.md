@@ -47,7 +47,7 @@ _(As @wighawag put it, "the best kind of retention is intrinsic.") <- and that�
 #### <mark style="color:red;">Keep In Mind, $Energy is the Capital  ⚡️ = 💰</mark>
 
 * **Keep in mind that in order to thrive, manage your $Energy very carefully**:exclamation: :exclamation:&#x20;
-* **Fail at managing $Energy may cause you lose the game at very beginning**:exclamation::exclamation:&#x20;
+* **Failure at managing your $Energy may cause you to lose the game at the very beginning**:exclamation::exclamation:&#x20;
 
 <figure><img src=".gitbook/assets/02-大地图航海界面.png" alt=""><figcaption><p>Game map UI</p></figcaption></figure>
 
