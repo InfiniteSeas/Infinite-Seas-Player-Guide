@@ -13,8 +13,6 @@
 * [🪵 4. Resource Production & Claim](product-guides/4.-resource-production-and-claim.md)
 * [⛵ 5. Ship Crafting](product-guides/5.-ship-crafting.md)
 * [🔢 6. Ship Roster](product-guides/6.-ship-roster.md)
-* [🎯 Milestone: 12,000 Ships Goal](product-guides/milestone-12-000-ships-goal.md)
-* [🎖️ Odyssey Badge Quest](product-guides/odyssey-badge-quest.md)
 * [⚓ 7. Sailing](product-guides/7.-sailing.md)
 * [🎯 8. Ship Battle](product-guides/8.-ship-battle.md)
 * [💱 9. Resource Transfer](product-guides/9.-resource-transfer.md)
@@ -23,6 +21,8 @@
 
 * [🏆 Leaderboard & Quests](fundamentals/leaderboard-and-quests.md)
 * [🤹 Game Characters](fundamentals/game-characters.md)
+* [🎯 Milestone: 6,000 Ships Goal](fundamentals/milestone-6-000-ships-goal.md)
+* [🎖️ Odyssey Badge Quest](fundamentals/odyssey-badge-quest.md)
 
 ## Use Cases
 
