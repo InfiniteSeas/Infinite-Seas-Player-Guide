@@ -4,7 +4,9 @@ description: Together, We Make Seas Different :3
 
 # 🎯 Milestone: 6,000 Ships Goal
 
-### **🚢 Craft the Fleet: 6,000 Ships Goal! 🎯**
+### **🚢 Achieved ✅ - Craft the Fleet: 6,000 Ships Goal! 🎯**
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-12-13 at 18.25.14.png" alt=""><figcaption><p>6k ships achieved ✅💙</p></figcaption></figure>
 
 #### **Join the Mission: Help Us Build the Largest Fleet in the Seas!**
 

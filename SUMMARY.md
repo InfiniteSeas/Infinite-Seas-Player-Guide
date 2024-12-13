@@ -21,8 +21,8 @@
 
 * [🏆 Leaderboard & Quests](fundamentals/leaderboard-and-quests.md)
 * [🤹 Game Characters](fundamentals/game-characters.md)
-* [🎯 Milestone: 6,000 Ships Goal](fundamentals/milestone-6-000-ships-goal.md)
-* [🎖️ Odyssey Badge Quest](fundamentals/odyssey-badge-quest.md)
+* [🎯 Milestone: 6,000 Ships Goal](product-guides/milestone-12-000-ships-goal.md)
+* [🎖️ Odyssey Badge Quest](product-guides/odyssey-badge-quest.md)
 
 ## Use Cases
 
